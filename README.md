@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi!
+
+Take a look at my portfolio ↓
+https://re-messi.github.io/
 
 <!--
 **re-messi/re-messi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
