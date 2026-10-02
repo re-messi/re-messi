@@ -1,4 +1,4 @@
-## Hi!
+## Hi there!
 
 Take a look at my portfolio ↓
 
